@@ -1,0 +1,431 @@
+
+.container-1{
+  height: 500px;
+  width: 1500px;
+  background-color: red;
+  position: relative;
+}
+
+
+h1{
+  margin: 0 auto;
+  font-family: sans-serif;
+  font-size: 45px;
+  color: #ffffff;
+}
+h2{
+
+  font-family: sans-serif;
+  margin-top: none;
+}
+h3{
+  margin: 0 auto;
+  font-family: sans-serif;
+  margin-left: 10px;
+  text-align: center;
+}
+h4{
+
+  font-family: sans-serif;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+a{
+  text-decoration:none;
+  color: #ffffff;
+}
+  .top{
+
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    position: absolute;
+    top: 100px;left: 500px;
+  }
+
+  .bottom{
+    color: white;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    position: absolute;
+    top: 200px;left: 500px;
+
+
+  }
+  .menu{
+    background-color: #cfb6b6;
+    height: 60px;
+    width: 150px;
+    border-radius: 30%;
+    text-align: center;
+    color: #625050;
+    position: absolute;
+    top: 350px;left: 800px;
+  }
+    .menu:hover{
+      background-color: #baa1a1;
+    }
+
+  .menu-2{
+    background-color: #cfb6b6;
+    height: 60px;
+    width: 150px;
+    border-radius: 30%;
+    text-align: center;
+    color: #625050;
+    position: absolute;
+    top: 350px;left: 620px;
+  }
+  .menu-2:hover{
+    background-color: #baa1a1;
+  }
+.mony{
+  font-size: 50px;
+}
+.mony-1{
+  font-size: 40px;
+}
+.container-2{
+  height: 450px;
+  width: 1500px;
+  background-color: #adb6ad;
+  position: relative;
+}
+  .two{
+    background-color: #a29191;
+    height: 400px;
+    width: 300px;
+    position: absolute;
+    top: 25px;
+    left: 40px;
+    text-align: center;
+
+  }
+  .two-2{
+    background-color: #a29191;
+    height: 400px;
+    width: 300px;
+    position: absolute;
+    top: 25px;
+    left: 410px;
+    text-align: center;
+  }
+  .two-3{
+    background-color: #a29191;
+    height: 400px;
+    width: 300px;
+    position: absolute;
+    top: 25px;
+    left: 780px;
+    text-align: center;
+  }
+  .two-4{
+    background-color: #a29191;
+    height: 400px;
+    width: 300px;
+    position: absolute;
+    top: 25px;
+    left: 1150px;
+    text-align: center;
+  }
+  .into{
+    height: 80px;
+    width: 130px;
+    position: absolute;
+    top: 280px;
+    left: 80px;
+    text-align: center;
+  }
+  .into:hover{
+    background-color: #9d8383;
+    border-radius: 10%;
+  }
+
+.container-3{
+  height: 600px;
+  width: 1500px;
+  background-color: #9c9cb2;
+  position: relative;
+}
+  .thiree{
+    background-color: #656565;
+    height: 100px;
+    width: 600px;
+    text-align: center;
+    position: absolute;
+    top: 50px;
+    left: 450px;
+  }
+  .thiree-2{
+    background-color: #858080;
+    height: 370px;
+    width: 350px;
+    text-align: center;
+    position: absolute;
+    top: 200px;
+    left: 70px;
+  }
+  .thiree-3{
+    background-color: #858080;
+    height: 370px;
+    width: 350px;
+    text-align: center;
+    position: absolute;
+    top: 200px;
+    left: 580px;
+  }
+  .thiree-4{
+    background-color: #858080;
+    height: 370px;
+    width: 350px;
+    text-align: center;
+    position: absolute;
+    top: 200px;
+    left: 1080px;
+  }
+  .bottom-finish{
+    height: 40px;
+    width: 200px;
+    background-color: #919291;
+    border-radius: 30%;
+    position: absolute;
+    top: 320px;
+    left: 70px;
+
+  }
+  .bottom-finish:hover{
+    background-color: #a19797
+  }
+  .bottomfinish{
+    text-align: left;
+    font-size: 20px;
+
+  }
+
+  .middle{
+    color: white;
+    margin-top: 5px;
+  }
+
+.container-4{
+  height: 600px;
+  width: 1500px;
+  background-color: #998e99;
+  position: relative;
+}
+  .four{
+    background-color: #af9191;
+    height: 70px;
+    width: 600px;
+    text-align: center;
+    border-radius: 10%;
+    position: absolute;
+    top: 30px;
+    left: 450px
+  }
+  .four-2{
+    background-color: #af9191;
+    height: 200px;
+    width: 600px;
+    text-align: center;
+    position: absolute;
+    top: 130px;
+    left: 100px
+  }
+  .four-3{
+    background-color: #af9191;
+    height: 200px;
+    width: 600px;
+    text-align: center;
+    position: absolute;
+    top: 130px;
+    left: 800px
+  }
+  .four-4{
+    background-color: #af9191;
+    height: 200px;
+    width: 600px;
+    text-align: center;
+    position: absolute;
+    top: 360px;
+    left: 100px
+  }
+  .four-5{
+    background-color: #af9191;
+    height: 200px;
+    width: 600px;
+    text-align: center;
+    position: absolute;
+    top: 360px;
+    left: 800px
+  }
+  .fourin{
+    height: 180px;
+    width: 300px;
+    background-color: #8c8c8c;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+  }
+  .fourin-1{
+    height: 180px;
+    width: 270px;
+    background-color: gray;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+
+  }
+  .detail{
+    margin-top: 40px;
+    text-align: left;
+  }
+  .detail-1{
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: left;
+
+  }
+
+.container-5{
+  height: 450px;
+  width: 1500px;
+  background-color: gray;
+  margin: 0 auto;
+}
+  .five{
+    height: 450px;
+    width: 1440px;
+    background-color: #618561;
+    margin-left: 30px;
+
+  }
+  .fiveup{
+    height: 250px;
+    width: 1400px;
+    background-color: #82958c;
+    margin-left: 20px;
+    position: relative;
+
+  }
+  .fiveup-1{
+    height: 230px;
+    width: 200px;
+    background-color: #759775;
+    margin-left: 20px;
+    position: absolute;
+    top: 10px;
+  }
+    .fiveup-in{
+      height: 40px;
+      width: 200px;
+      margin-top: 5px;
+      background-color: #82958c;
+      color: #ffffff;
+      text-align: center;
+      font-family: sans-serif;
+    }
+  .fiveup-2{
+    height: 230px;
+    width: 200px;
+    background-color: #818889;
+    margin-left: 20px;
+    position: absolute;
+    top: 10px;
+    left: 230px;
+  }
+  .fiveup-3{
+    height: 230px;
+    width: 200px;
+    background-color: #738c73;
+    margin-left: 20px;
+    position: absolute;
+    top: 10px;
+    left: 460px;
+  }
+  .fiveup-4{
+    height: 230px;
+    width: 200px;
+    background-color: #8ea48e;
+    margin-left: 20px;
+    position: absolute;
+    top: 10px;
+    left: 690px;
+  }
+  .fiveup-5{
+    height: 230px;
+    width: 430px;
+    background-color: #636f63;
+    margin-left: 20px;
+    position: absolute;
+    top: 10px;
+    left: 920px;
+  }
+    .fiveup-out{
+      height: 50px;
+      width: 300px;
+      background-color: #636f63;
+      margin-top: 20px;
+      margin-left: 10px;
+    }
+    .text{
+      margin: 0 auto;
+      margin-left: 10px;
+    }
+    .evento{
+      font-family: sans-serif;
+    }
+    .envento{
+      font-family: fantasy;
+    }
+    .fiveup-out-3{
+      height: 130px;
+      width: 100px;
+      background-color: gray;
+      margin-top: 20px;
+      margin-left: 10px;
+      position: absolute;
+      top: 0px;
+      left: 320px;
+    }
+
+
+  .fivebottom{
+    height: 200px;
+    width: 1400px;
+    background-color: #9f9fb4;
+    margin-left: 20px;
+    position: relative;
+  }
+  .fivebottom-a{
+    height: 30px;
+    width: 150px;
+    background-color: #9f9fb4;
+    margin-top: 10px;
+    float: left;
+  }
+  .under{
+    margin-top: 50px;
+    margin-left: 10px;
+  }
+  .under-1{
+    margin-top: -30px;
+    margin-left: 10px;
+  }
+  .under-bottom{
+    height: 100px;
+    width: 344px;
+    background-color: purple;
+    position: absolute;
+    top: 80px;
+    left: 1000px;
+  }
+  .under-bottom-1{
+    height: 94px;
+    width: 80px;
+    margin-top: 3px;
+    margin-left: 5px;
+    background-color: gray;
+    float: left;
+  }
